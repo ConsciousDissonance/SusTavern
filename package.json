@@ -64,7 +64,7 @@
     "license": "AGPL-3.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/SillyTavern/SillyTavern.git"
+        "url": "https://github.com/ConsciousDissonance/SusTavern.git"
     },
     "version": "1.12.6",
     "scripts": {
